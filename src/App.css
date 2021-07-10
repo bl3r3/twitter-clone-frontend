@@ -457,4 +457,12 @@ textarea:focus, input:focus{
     justify-content: center;
     width: 100%;
   }
+
+  .post__headerText h3 {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+  .post__avatar {
+    padding: 20px 5px;
+}
 }
